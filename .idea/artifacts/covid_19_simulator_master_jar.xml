@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="covid-19-simulator-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/covid_19_simulator_master_jar</output-path>
+    <root id="archive" name="covid-19-simulator-master.jar">
+      <element id="module-output" name="covid-19-simulator-master" />
+    </root>
+  </artifact>
+</component>
